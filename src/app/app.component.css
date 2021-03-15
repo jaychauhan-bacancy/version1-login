@@ -1,0 +1,10 @@
+input.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+#alignment{
+    left: 60%;
+    top: 50%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -23.2%;
+}
